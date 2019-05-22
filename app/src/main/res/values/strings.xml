@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">SimpleDemo</string>
+    <string name="btn_string">Click me</string>
+    <string name="first_login">欢迎初次使用!</string>
+    <string name="login_within_3_days">欢迎经常使用!</string>
+    <string name="login_3_days_later">好久不见，欢迎再次使用</string>
+</resources>
